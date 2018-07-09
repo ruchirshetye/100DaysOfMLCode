@@ -1,7 +1,7 @@
 # 100DaysOfMLCode
 Hello World! Ruchir here. This is the log file of all the Machine Learning Code/Learning I'm going to implement in the upcoming 100 days.
 ##
-### Me in 15 seconds.
+### Me in 15 seconds. :D
  
  I live in Mumbai, India.
  
@@ -11,12 +11,12 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 ### Day 1: July 9, 2018 
 
 **Today's Progress**: 1) Implemented a Neural Network(NN) in Python without using any framework.</br>
-                      2) Watched 3Blue1Browns video series on NN. 
+&nbsp;&nbsp; 2) Watched 3Blue1Browns video series on NN. 
                       
 **Thoughts:** It's very quick easy to code a Neural Network using powerful libraries, but sometimes knowing what's going on behind the scenes is equally important. Hence implementing a NN from scratch in python has given me a better understanding of the whole working of NN.
 
 **Link to work:** Neural Network in Python : http://www.github.com.</br>
-                  ***3Blue1brown*** : https://www.youtube.com/watch?v=aircAruvnKk
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; ***3Blue1brown*** : https://www.youtube.com/watch?v=aircAruvnKk
                   
 **Resources** : Special thanks to Milo Spencer-Harper's medium article : https://bit.ly/1MUrHRJ
 
