@@ -17,4 +17,6 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 
 **Link to work:** Neural Network in Python : http://www.github.com.
                   ***3Blue1brown*** : https://www.youtube.com/watch?v=aircAruvnKk
+                  
+**Resources** : Special thanks to Milo Spencer-Harper's medium article : https://bit.ly/1MUrHRJ
 
