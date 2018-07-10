@@ -14,7 +14,7 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
 2) Watched 3Blue1Browns video series on NN. 
                       
-**Thoughts:** It's very quick easy to code a Neural Network using powerful libraries, but sometimes knowing what's going on behind the scenes is equally important. Hence implementing a NN from scratch in python has given me a better understanding of the whole working of NN.
+**Thoughts:** It's very quick easy to code a Neural Network using powerful libraries, but sometimes knowing what's going on behind the scenes is equally important. Hence implementing a NN from scratch in python has given me a better understanding of how NN's work. By watching 3Blue1Browns video series, I have got a visual understanding of the mathematical concepts used in NN. I recommend to watch his series on Neural Networks.
 
 **Link to work:** ***Neural Network in Python :*** https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%201 </br>
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***3Blue1brown*** : https://www.youtube.com/watch?v=aircAruvnKk
