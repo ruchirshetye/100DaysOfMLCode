@@ -8,7 +8,7 @@ Hello World! Ruchir here. This is the log file of all the Machine Learning Code/
 Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew interested in ML/AI due to the huge amount of research being done in this field. This whole revolution of Artificial Intelligence (AI) fascinates me. AI, coupled with other technologies has the power to make the world a better place. So, I decided to learn more about AI and apply these concepts to solve real world problems. 
 ## 
 
-### Day 1: July 9, 2018 
+### Day 1: July 10, 2018 
 
 **Today's Progress**: 1) Implemented a Neural Network(NN) in Python without using any framework.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
