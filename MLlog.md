@@ -21,3 +21,4 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
                   
 **Resources** : Special thanks to Milo Spencer-Harper's medium article : https://bit.ly/1MUrHRJ
 
+### Day 2: July 11, 2018: Goal : Implement Neural Network using Keras. 
