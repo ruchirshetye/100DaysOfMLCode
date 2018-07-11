@@ -21,4 +21,15 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
                   
 **Resources** : Special thanks to Milo Spencer-Harper's medium article : https://bit.ly/1MUrHRJ
 
-### Day 2: July 11, 2018: Goal : Implement Neural Network using Keras. 
+### Day 2: July 11, 2018 
+
+**Today's Progress**: 1) Implemented a Neural Network(NN) using Keras library.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
+                      
+**Thoughts:**  to build a sequential model of Neural Network with three layers. The Neural network can predict the probability of the customer leaving the bank. The Neural Network achieved an accuracy of 86.5%. 
+
+**Link to work:** ***Neural Network Using Keras:***  [ANN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day2/annKeras.py).
+
+</br>
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  
