@@ -26,10 +26,18 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 **Today's Progress**: 1) Implemented a Neural Network(NN) using Keras library.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
                       
-**Thoughts:**  to build a sequential model of Neural Network with three layers. The Neural network can predict the probability of the customer leaving the bank. The Neural Network achieved an accuracy of 86.5%. 
+**Thoughts:**  To build a sequential model of Neural Network with three layers. The Neural network can predict the probability of the customer leaving the bank. The Neural Network achieved an accuracy of 86.5%. 
 
 **Link to work:** ***Neural Network Using Keras:***  [ANN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day2/annKeras.py).
 
 </br>
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+### Day 3: July 12, 2018 
+
+**Today's Progress**: Learnt a about Convolutional Neural Networks.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
+                      
+**Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers are to detect features in images. A real good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  
+              
                   
