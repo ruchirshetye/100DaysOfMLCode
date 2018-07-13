@@ -40,7 +40,7 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
                       
 **Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers is to detect features in images. A really good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  
 
-### Day 3: July 12, 2018 
+### Day 4: July 13, 2018 
 
 **Today's Progress**: Learnt about Cross Entropy and Softmax.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;Got a basic idea of how LSTM and RNN work. 
