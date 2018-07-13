@@ -38,6 +38,16 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 **Today's Progress**: Learnt a about Convolutional Neural Networks.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
                       
-**Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers are to detect features in images. A real good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  
+**Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers is to detect features in images. A really good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  
+
+### Day 3: July 12, 2018 
+
+**Today's Progress**: Learnt about Cross Entropy and Softmax.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;Got a basic idea of how LSTM and RNN work. 
+                      
+**Thoughts:** Consider a logistic regression produces a decimal between 0 and 1.0. For example, a logistic regression output of 0.8 from an email classifier suggests an 80% chance of an email being spam and a 20% chance of it being not spam. Clearly, the sum of the probabilities of an email being either spam or not spam is 1.0.</br>
+
+Softmax assigns decimal probabilities to each class in a multi-class problem. Those decimal probabilities must add up to 1.0. This additional constraint helps training converge more quickly than it otherwise would.</br></br>
+In Convolutional Neural Networks after you apply the softmax fucntion its is prefrerred to use a Cross Entropy function which basically acts as a cost function. 
               
                   
