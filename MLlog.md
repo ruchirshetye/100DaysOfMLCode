@@ -38,7 +38,7 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 **Today's Progress**: Learnt a about Convolutional Neural Networks.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
                       
-**Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers is to detect features in images. A really good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  
+**Thoughts:** Convolutional Neural Network(CNN) is made up of 4 major steps. Those are 1) Convolution 2) Max Pooling 3) Flattening 4)Full Connection. The purpose of these layers is to detect features in images. A really good visual demo of CNN working in real time gave me a proper understanding of the process. Link to the [CNN demo](http://scs.ryerson.ca/~aharley/vis/)  </br>
 
 ### Day 4: July 13, 2018 
 
@@ -49,5 +49,15 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 
 Softmax assigns decimal probabilities to each class in a multi-class problem. Those decimal probabilities must add up to 1.0. This additional constraint helps training converge more quickly than it otherwise would.</br></br>
 In Convolutional Neural Networks after you apply the softmax fucntion its is prefrerred to use a Cross Entropy function which basically acts as a cost function. 
-              
+</br>
+
+### Day 5: July 14, 2018 
+
+**Today's Progress**: 1) Implemented a Convolutional Neural Network(NN) using Keras library.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
+                      
+**Thoughts:** Trained the CNN on images of dogs and cats. The architecture of the CNN used was Conv2d->MaxPooling2D->Flattening Layer->One Fully Connected Layer->Output(2 Classes). It took a total time of 8-9Hrs to train itself. The results after train were not satisfactory. The model had overfitted itself. The accuracy on the training set was 99.5% (loss = 0.0145)and the test set accuracy was 74.84%(val_loss = 2.2570).I have planned to imporove this model by adding more hidden layers or using regularization function. Note that
+Image Augmentation technique was also used, but wasn't sufficient to reduce the overfitting.
+
+**Link to work:** ***Neural Network Using Keras:***  [CNN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day%205/cnn.py).
                   
