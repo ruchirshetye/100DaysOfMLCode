@@ -56,7 +56,7 @@ In Convolutional Neural Networks after you apply the softmax fucntion its is pre
 **Today's Progress**: 1) Implemented a Convolutional Neural Network(NN) using Keras library.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
                       
-**Thoughts:** Trained the CNN on images of dogs and cats. The architecture of the CNN used was Conv2d->MaxPooling2D->Flattening Layer->One Fully Connected Layer->Output(2 Classes). It took a total time of 8-9Hrs to train itself. The results after train were not satisfactory. The model had overfitted itself. The accuracy on the training set was 99.5% (loss = 0.0145)and the test set accuracy was 74.84%(val_loss = 2.2570).I have planned to imporove this model by adding more hidden layers or using regularization function. Note that
+**Thoughts:** Trained the CNN on images of dogs and cats. The architecture of the CNN used was Conv2d->MaxPooling2D->Flattening Layer->One Fully Connected Layer->Output(2 Classes). It took a total time of 8-9Hrs to train itself. The results after train were not satisfactory. The model had overfitted itself. The accuracy on the training set was 99.5% (loss = 0.0145)and the test set accuracy was 74.84%(val_loss = 2.2570).I have planned to improve this model by adding more hidden layers or using regularization function. Note that
 Image Augmentation technique was also used, but wasn't sufficient to reduce the overfitting.
 
 **Link to work:** ***Neural Network Using Keras:***  [CNN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day%205/cnn.py).
