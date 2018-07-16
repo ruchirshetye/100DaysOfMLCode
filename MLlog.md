@@ -60,4 +60,15 @@ In Convolutional Neural Networks after you apply the softmax fucntion its is pre
 Image Augmentation technique was also used, but wasn't sufficient to reduce the overfitting.
 
 **Link to work:** ***Neural Network Using Keras:***  [CNN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day%205/cnn.py).
+
+### Day 6-7: July 15-16, 2018 
+
+**Today's Progress**: 1) Implemented Principal Component Analysis algorithm using Python and R.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
+                      
+**Thoughts:** Principal Component Analysis is used for feature extraction. It's one of a dimensionality reduction technique.
+I used PCA on a dataset which consists of 12 different wine properties. The dataset has been classified into 3 customer segments.
+After applying PCA on this dataset, I got an insight of how these 12 features were contributing towards the variance. Hence by selecting the top 2 contributors and applying logistic regression to the reduced dataset, I got an accuracy of 97.2%. 
+
+**Link to work:** ***Neural Network Using Keras:***  [PCA](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%206-7).
                   
