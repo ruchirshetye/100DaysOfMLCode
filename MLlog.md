@@ -70,5 +70,5 @@ Image Augmentation technique was also used, but wasn't sufficient to reduce the 
 I used PCA on a dataset which consists of 12 different wine properties. The dataset has been classified into 3 customer segments.
 After applying PCA on this dataset, I got an insight of how these 12 features were contributing towards the variance. Hence by selecting the top 2 contributors and applying logistic regression to the reduced dataset, I got an accuracy of 97.2%. 
 
-**Link to work:** ***Neural Network Using Keras:***  [PCA](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%206-7).
+**Link to work:** ***PCA using Python and R:***  [PCA](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%206-7).
                   
