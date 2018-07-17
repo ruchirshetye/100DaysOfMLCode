@@ -61,7 +61,7 @@ Image Augmentation technique was also used, but wasn't sufficient to reduce the 
 
 **Link to work:** ***Neural Network Using Keras:***  [CNN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day%205/cnn.py).
 
-### Day 6-7: July 15-16, 2018 
+### Day 6-7: July 15-16, 2018 (Dimensionality Reduction)
 
 **Today's Progress**: 1) Implemented Principal Component Analysis algorithm using Python and R.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 
@@ -71,4 +71,14 @@ I used PCA on a dataset which consists of 12 different wine properties. The data
 After applying PCA on this dataset, I got an insight of how these 12 features were contributing towards the variance. Hence by selecting the top 2 contributors and applying logistic regression to the reduced dataset, I got an accuracy of 97.2%. 
 
 **Link to work:** ***PCA using Python and R:***  [PCA](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%206-7).
+
+### Day 8: July 17, 2018 (Dimensionality Reduction)
+
+**Today's Progress**: 1) Implented Linear Discriminant Analysis(LDA).</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 2)Implemented Kernel PCA                      
+**Thoughts:** 1)Logistic regression is a classification algorithm traditionally limited to only two-class classification problems.
+If you have more than two classes then Linear Discriminant Analysis is the preferred linear classification technique. LDA is a supervised algorithm as it takes the class label into consideration. It is a way to reduce ‘dimensionality’ while at the same time preserving as much of the class discrimination information as possible.</br>
+2)Kernel PCA just performs PCA in a new space. It uses Kernel trick to find principal components in a different high dimensional space.
+
+**Link to work:** ***LDA and Kernel PCA using Python:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%208).
                   
