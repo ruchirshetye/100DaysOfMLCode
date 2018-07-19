@@ -90,4 +90,13 @@ The procedure has a single parameter called k that refers to the number of group
 Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data. That is, to use a limited sample in order to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model.
 
 **Link to work:** ***k-fold cross validation applied on SVM classification model:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%209).
+
+### Day 10: July 18, 2018 (Model Selection)
+
+**Today's Progress**: 1) Learnt how Grid Search validation works.</br>
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
+
+**Thoughts:** Hyper-parameters are parameters that are not directly learnt within estimators. Typical examples include C, kernel and gamma for Support Vector Classifier. The traditional way of performing hyperparameter optimization has been grid search, which is simply an exhaustive searching through a manually specified subset of the hyperparameter space of a learning algorithm. A grid search algorithm must be guided by some performance metric, typically measured by cross-validation on the training set.
+
+**Link to work:** ***k-fold cross validation applied on SVM classification model:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%2010).
                   
