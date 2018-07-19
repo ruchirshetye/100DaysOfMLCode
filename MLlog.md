@@ -29,9 +29,7 @@ Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew inter
 **Thoughts:**  To build a sequential model of Neural Network with three layers. The Neural network can predict the probability of the customer leaving the bank. The Neural Network achieved an accuracy of 86.5%. 
 
 **Link to work:** ***Neural Network Using Keras:***  [ANN using Keras](https://github.com/ruchirshetye/100DaysOfMLCode/blob/master/Day2/annKeras.py).
-
 </br>
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ### Day 3: July 12, 2018 
 
