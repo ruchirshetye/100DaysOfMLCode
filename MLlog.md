@@ -91,7 +91,7 @@ Cross-validation is primarily used in applied machine learning to estimate the s
 
 **Link to work:** ***k-fold cross validation applied on SVM classification model:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%209).
 
-### Day 10: July 18, 2018 (Model Selection)
+### Day 10: July 19, 2018 (Model Selection)
 
 **Today's Progress**: 1) Learnt how Grid Search works.</br>
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
@@ -99,4 +99,16 @@ Cross-validation is primarily used in applied machine learning to estimate the s
 **Thoughts:** Hyper-parameters are parameters that are not directly learnt within estimators. Typical examples include C, kernel and gamma for Support Vector Classifier. The traditional way of performing hyperparameter optimization has been grid search, which is simply an exhaustive searching through a manually specified subset of the hyperparameter space of a learning algorithm. A grid search algorithm must be guided by some performance metric, typically measured by cross-validation on the training set.
 
 **Link to work:** ***Grid Search applied on SVM classification model:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%2010).
-                  
+
+
+
+### Day 11-10: July 20-21, 2018 (Model Selection)
+
+**Today's Progress**: 1) Implemented XGBoost.</br>
+
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
+2) Tried Google Colab( Google's free cloud service for AI developers) for training CNN model.
+**Thoughts:** XGBoost is a software library that you can download and install on your machine, then access from a variety of interfaces.
+The two reasons to use XGBoost are execution speed and model performance.
+
+**Link to work:** ***XGBoost:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%2011-12).
