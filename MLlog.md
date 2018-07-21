@@ -102,7 +102,7 @@ Cross-validation is primarily used in applied machine learning to estimate the s
 
 
 
-### Day 11-12: July 20-21, 2018 (Model Selection)
+### Day 11-12: July 20-21, 2018 
 
 **Today's Progress**: 1) Implemented XGBoost.</br>
 
