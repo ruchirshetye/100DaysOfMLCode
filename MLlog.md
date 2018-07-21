@@ -102,12 +102,12 @@ Cross-validation is primarily used in applied machine learning to estimate the s
 
 
 
-### Day 11-10: July 20-21, 2018 (Model Selection)
+### Day 11-12: July 20-21, 2018 (Model Selection)
 
 **Today's Progress**: 1) Implemented XGBoost.</br>
 
 &nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
-2) Tried Google Colab( Google's free cloud service for AI developers) for training CNN model.
+2) Tried Google Colab( Google's free cloud service for AI developers) for training CNN model.</br>
 **Thoughts:** XGBoost is a software library that you can download and install on your machine, then access from a variety of interfaces.
 The two reasons to use XGBoost are execution speed and model performance.
 
