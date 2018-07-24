@@ -112,3 +112,12 @@ Cross-validation is primarily used in applied machine learning to estimate the s
 The two reasons to use XGBoost are execution speed and model performance.
 
 **Link to work:** ***XGBoost:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day%2011-12).
+
+### Day 13: July 22, 2018 (Reinforcement Learning)
+
+**Today's Progress**: 1) Implemented Upper Confidence Bound.</br>
+
+&nbsp;&nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
+**Thoughts:** Upper Confidence Bound is a reinforcement learning algorithim. It is used to maximize your returns.Initially you have no idea what is the optimal distribution of your returns on your investments, for eg Ads,Bandit Machines. When you have 10 versions of a ad  for your website but are not quite sure of which ad will give maximum returns.Then UCB algorithm can help you. You can solve this problem with A/B testing but for that you need to explore the possiblities and then exploit them. Instead of this we can combine exploration and exploitation to get the optimal results as soon as possible. This can be done by upper confidence bound algorithm.
+
+**Link to work:** ***Upper Confidence Bound:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day13).
