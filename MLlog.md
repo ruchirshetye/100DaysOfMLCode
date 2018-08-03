@@ -121,3 +121,9 @@ The two reasons to use XGBoost are execution speed and model performance.
 **Thoughts:** Upper Confidence Bound is a reinforcement learning algorithim. It is used to maximize your returns.Initially you have no idea what is the optimal distribution of your returns on your investments, for eg Ads,Bandit Machines. When you have 10 versions of a ad  for your website but are not quite sure of which ad will give maximum returns.Then UCB algorithm can help you. You can solve this problem with A/B testing but for that you need to explore the possiblities and then exploit them. Instead of this we can combine exploration and exploitation to get the optimal results as soon as possible. This can be done by upper confidence bound algorithm.
 
 **Link to work:** ***Upper Confidence Bound:***  [CODE](https://github.com/ruchirshetye/100DaysOfMLCode/tree/master/Day13).
+
+
+### July 23 - August 3 , 2018 
+
+**Update** : Will start updating my daily work from tomorrow. During this period,I was busy with a lot of college related work and campus placement process, so couldn't update the repo everyday, but I did watched some videos of Siraj Raval on Decentralized Application and Computerphiles videos regarding deep learning. Will start my resume my journey tomorrow. 
+
