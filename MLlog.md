@@ -125,5 +125,5 @@ The two reasons to use XGBoost are execution speed and model performance.
 
 ### July 23 - August 3 , 2018 
 
-**Update** : Will start updating my daily work from tomorrow. During this period,I was busy with a lot of college related work and campus placement process, so couldn't update the repo everyday, but I did watched some videos of Siraj Raval on Decentralized Application and Computerphiles videos regarding deep learning. Will start my resume my journey tomorrow. 
+**Update** : Will start updating my daily work from tomorrow. During this period,I was busy with a lot of college related work and campus placement process, so couldn't update the repo everyday, but I did watched some videos of Siraj Raval on Decentralized Application and Computerphiles videos regarding deep learning. Will resume my journey tomorrow. 
 
