@@ -5,8 +5,9 @@ Hello World! Ruchir here. This is the log file of all the Machine Learning Code/
  
  I live in Mumbai, India.
  
-Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew interested in ML/AI due to the huge amount of research being done in this field. This whole revolution of Artificial Intelligence (AI) fascinates me. AI, coupled with other technologies has the power to make the world a better place. So, I decided to learn more about AI and apply these concepts to solve real world problems. 
+Currently I'm pursuing my Bachelors degree in Computer Engineering. I grew interested in ML/AI due to the huge amount of research being done in this field. This whole revolution of Artificial Intelligence (AI) fascinates me. AI, coupled with other technologies has the power to make the world a better place. So, I decided to learn more about AI and apply these concepts to solve real world problems.</br> 
 ## 
+**Link to My Repo :** https://github.com/ruchirshetye/100DaysOfMLCode
 
 ### Day 1: July 10, 2018 
 
@@ -137,5 +138,13 @@ Hey! I know, I know I have taken a long break in between and might have broken t
 
 **Link:** ***fast.ai:***  [fast.ai(Lesson1)](http://course.fast.ai/lessons/lesson1.html).
 [fast.ai(Lesson2)](http://course.fast.ai/lessons/lesson2.html)
+
+### Day 15: August 16, 2018
+
+**Today's Progress**: 1) Continued with fast.ai's deeplearning curriculum.</br>
+ 
+**Thoughts:** Got more in-depth knowledge on training CNN Classifier.Completed Lesson 2 of fast.ai.
+
+**Link:** ***fast.ai:***  [fast.ai(Lesson2)](http://course.fast.ai/lessons/lesson2.html)
 
 
