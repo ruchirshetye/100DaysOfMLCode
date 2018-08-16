@@ -129,7 +129,7 @@ The two reasons to use XGBoost are execution speed and model performance.
 
 ### Day 14: August 15, 2018
 
-Hey! I know, I know I have taken a long break in between and might have broken the first rule of this challenge which is doing something related to AI everyday. Eventhough I am late, I'll make sure I complete this challenge without taking any breaks in the future.Let's hope for the best. The remaining 75 Days here I come! :P </br>
+Hey! I know, I know I have taken a long break in between and might have broken the first rule of this challenge which is doing something related to AI everyday. Eventhough I am late, I'll make sure I complete this challenge without taking any breaks in the future.Let's hope for the best. The remaining 85 Days here I come! :P </br>
 
 **Today's Progress**: 1) Started with fast.ai's deeplearning curriculum.</br>
  
