@@ -147,4 +147,19 @@ Hey! I know, I know I have taken a long break in between and might have broken t
 
 **Link:** ***fast.ai:***  [fast.ai(Lesson2)](http://course.fast.ai/lessons/lesson2.html)
 
+### Day 16: August 17, 2018
 
+**Today's Progress**: 1)Started a Kaggle Dog Breed Classifier Kaggle competition .</br>
+ 
+**Thoughts:** This is similar to Dogs Vs Cats Classifier using CNN. The model will be Trained on Resnet Architecture.
+
+**Link:** ***fast.ai:***  [fast.ai(Lesson2)](http://course.fast.ai/lessons/lesson2.html)
+***Kaggle Competition***  [Kaggle](https://www.kaggle.com/c/dog-breed-identification)
+
+### Day 17: August 18, 2018
+
+**Today's Progress**: 1) Tried New York City Taxi Trip Duration Prediction on Kaggle.</br>
+ 
+**Thoughts:** The dataset contains features like Co-ordinates of pick and drop location, time takent to complete the trip , area , time of pickup and drop and many more. Will train it in Google Colab. It's not yet complete. Will update once completed.
+
+**Link:** ***Kaggle Competition***  [Kaggle](https://www.kaggle.com/c/nyc-taxi-trip-duration)
